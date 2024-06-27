@@ -1,5 +1,5 @@
 
-# Gemini Chat App Powered 
+# Gemini Chat App
 - This project involves building an AI-chat app wherein the user can interact with the AI to get intelligent,smart replies. 
 - This project involves clean architecture project structure
 - The Ai is able to provide answers to challenging questions , further the AI can also deal with image inputs 
