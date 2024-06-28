@@ -30,7 +30,7 @@
 
 ## Download the App
 - You can download the apk and try it out for yourself.
-- [Click here to get the apk](https://drive.google.com/file/d/1qbXaXnQe1UmdlXSvmqgZrxegmgJ8VZOy/view?usp=drive_link)
+- [Click here to get the apk](https://drive.google.com/file/d/1XZYv07uxyuW8t0x4hqYJH_bLmDeuq0cI/view?usp=drive_link)
   
 ## Note 
 - Further updates are coming soon .
